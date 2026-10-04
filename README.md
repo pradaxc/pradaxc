@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradaxc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <img src="https://pradaxc-stats.vercel.app/api/top-langs/?username=pradaxc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&v=4" alt="top langs" />
 </div>
 
 ## 🏆 成就 · Achievements
