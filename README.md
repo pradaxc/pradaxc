@@ -65,7 +65,7 @@
 ## 📊 統計 · Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradaxc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradaxc&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=pradaxc&theme=radical&hide_border=true&background=0d1117" height="160" alt="streak" />
 </div>
 
