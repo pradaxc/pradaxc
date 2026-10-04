@@ -66,7 +66,7 @@
 
 <div align="center">
   <img src="https://pradaxc-stats.vercel.app/api?username=pradaxc&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=pradaxc&theme=radical&hide_border=true&background=0d1117" height="160" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=pradaxc&theme=radical&hide_border=true&background=0d1117&v=2" height="160" alt="streak" />
 </div>
 
 <div align="center">
