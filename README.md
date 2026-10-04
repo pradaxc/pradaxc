@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F53F3F&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+pradaxc+%F0%9F%91%8B;Developer+%E2%80%A2+Anime+Enthusiast+%E2%80%A2+RE+Hobbyist;%E5%A4%A9%E9%81%93%E9%85%AC%E5%8B%A4+%E2%80%A2+Heaven+rewards+diligence" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/80KPlmXXRfcAAAAC/reze-dance-gif-without-background.gif" width="200" alt="Reze dance"/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F53F3F&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+pradaxc+%F0%9F%91%8B;Developer+%E2%80%A2+Anime+Enthusiast+%E2%80%A2+RE+Hobbyist;%E5%A4%A9%E9%81%93%E9%85%AC%E5%8B%A4+%E2%80%A2+Heaven+rewards+diligence" alt="Typing SVG" />
 
   ### 天道酬勤
   *Heaven rewards the diligent*
